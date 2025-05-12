@@ -2,3 +2,4 @@ transformers
 torch
 pillow
 gradio
+hf_xet #It's not effective ; it even been removed.
