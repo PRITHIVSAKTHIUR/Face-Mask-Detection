@@ -34,7 +34,7 @@ The model distinguishes between the following face mask statuses:
 ## **Installation**
 
 ```bash
-pip install transformers torch pillow gradio
+!pip install transformers torch pillow gradio hf_xet
 ```
 
 ---
