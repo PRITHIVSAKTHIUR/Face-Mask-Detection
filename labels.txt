@@ -1,0 +1,5 @@
+# ID to label mapping
+id2label = {
+    "0": "Face_Mask Found",
+    "1": "Face_Mask Not_Found"
+}
